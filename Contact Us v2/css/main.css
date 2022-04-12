@@ -1,0 +1,243 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v203_2 {
+  width: 100%;
+  height: 3843px;
+  background: rgba(31,38,107,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v203_3 {
+  width: 100%;
+  height: 960px;
+  background: url("../images/v203_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v203_4 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 364px;
+  left: 41px;
+  font-family: Playfair Display;
+  font-weight: Regular;
+  font-size: 112px;
+  opacity: 1;
+  text-align: center;
+}
+.v203_5 {
+  width: 289px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 78px;
+  left: 103px;
+  font-family: Computer says no;
+  font-weight: Regular;
+  font-size: 72px;
+  opacity: 1;
+  text-align: left;
+}
+.v203_6 {
+    width: 856px;
+    height: 2073px;
+    background: rgba(196,196,196,1);
+    opacity: 1;
+    position: absolute;
+    top: 1047px;
+    left: 119px;
+    font-size: 14px;
+}
+.v203_7 {
+  width: 100%;
+  height: 176px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 5302px;
+  left: 0px;
+  overflow: hidden;
+}
+.v203_8 {
+  width: 100%;
+  height: 102px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 3747px;
+  left: 0px;
+  overflow: hidden;
+}
+.v203_9 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 3772px;
+  left: 77px;
+  font-family: Computer says no;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v207_24 {
+    width: 787px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1998px;
+    left: 139px;
+    font-family: Avenir;
+    font-weight: Light;
+    font-size: 48px;
+    opacity: 1;
+    text-align: right;
+}
+.v207_25 {
+    width: 311px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 2057px;
+    left: 616px;
+    font-family: Avenir;
+    font-weight: Light;
+    font-size: 48px;
+    opacity: 1;
+    text-align: right;
+}
+.v207_26 {
+    width: 318px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 2109px;
+    left: 612px;
+    font-family: Avenir;
+    font-weight: Light;
+    font-size: 48px;
+    opacity: 1;
+    text-align: right;
+}
+.v203_11 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1246px;
+  left: 208px;
+  font-family: Avenir;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v203_21 {
+  width: 378px;
+  height: 587px;
+  background: url("../images/v203_21.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2802px;
+  left: 208px;
+  overflow: hidden;
+}
+.v203_13 {
+  width: 378px;
+  height: 587px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 90px;
+  border-top-right-radius: 90px;
+  border-bottom-left-radius: 90px;
+  border-bottom-right-radius: 90px;
+  overflow: hidden;
+}
+.v203_14 {
+  width: 269px;
+  height: 269px;
+  background: url("../images/v203_14.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 159px;
+  left: 54px;
+  overflow: hidden;
+}
+.v203_15 {
+    width: 223px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 2720px;
+    left: 194px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+}
+.v203_16 {
+  width: 171px;
+  color: rgba(255,255,255,1);
+  position: fixed;
+  top: 94px;
+  left: 581px;
+  font-family: Computer says no;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v203_17 {
+  width: 152px;
+  color: rgba(255,255,255,1);
+  position: fixed;
+  top: 94px;
+  left: 663px;
+  font-family: Computer says no;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v203_18 {
+  width: 293px;
+  color: rgba(255,255,255,1);
+  position: fixed;
+  top: 94px;
+  left: 739px;
+  font-family: Computer says no;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v203_19 {
+  width: 189px;
+  color: rgba(255,255,255,1);
+  position: fixed;
+  top: 94px;
+  left: 893px;
+  font-family: Computer says no;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
