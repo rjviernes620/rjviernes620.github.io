@@ -60,7 +60,7 @@ body {
   top: 99px;
   left: 75px;
   font-family: Computer says no;
-  src: url("../rjviernes620.github.io/Computer says no.tff");  
+  src: url("../rjviernes620.github.io/Computer says no.tff") format();  
   font-weight: Regular;
   font-size: 72px;
   opacity: 1;
